@@ -43,21 +43,19 @@
 
 ## 📊 NEURAL STATS
 
+## 📊 NEURAL STATS
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=im-Paulsive&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=ff00ff&icon_color=00ffff&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=im-Paulsive&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=im-Paulsive&theme=radical&hide_border=true&background=0f0c29&ring=ff00ff&fire=00ffff&currStreakLabel=ff00ff"/>
+<img src="https://streak-stats.demolab.com?user=im-Paulsive&theme=radical" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-Paulsive&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=ff00ff"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-Paulsive&layout=compact&theme=radical" />
 </p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=im-Paulsive&theme=react-dark&bg_color=0f0c29&color=ff00ff&line=00ffff&point=ffffff&hide_border=true"/>
-</p>>
 
 ---
 
