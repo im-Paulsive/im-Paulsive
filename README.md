@@ -3,7 +3,7 @@
 <h1 align="center">⚡ CYBER AI ENGINEER ⚡</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=FF00FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Architect;AI+Systems+Builder;Data+Science+Explorer;Cyberpunk+Coder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=FF00FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Architect;AI+Systems+Builder;Data+Science+Explorer" />
 </p>
 
 ---
