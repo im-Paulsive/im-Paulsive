@@ -43,16 +43,14 @@
 
 ## 📊 NEURAL STATS
 
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=im-Paulsive&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-</p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=im-Paulsive&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=im-Paulsive&theme=radical&hide_border=true&background=0f0c29&ring=ff00ff&fire=00ffff&currStreakLabel=ff00ff"/>
 </p>
 
+
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=im-Paulsive&layout=compact&theme=radical"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=im-Paulsive&theme=react-dark&bg_color=0f0c29&color=ff00ff&line=00ffff&point=ffffff&hide_border=true"/>
 </p>
 ---
 
