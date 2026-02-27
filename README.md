@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=PAUL%20MATHEW&fontSize=60&fontColor=00F5FF&animation=twinkling"/>
 
-<h1 align="center">⚡ CYBER AI ENGINEER ⚡</h1>
+<h1 align="center">⚡ DATA SCIENCE AND MACHINE LEARNING ENGINEERING ⚡</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=FF00FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Architect;AI+Systems+Builder;Data+Science+Explorer" />
